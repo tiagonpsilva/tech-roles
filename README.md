@@ -1,6 +1,6 @@
-# Tech Roles - Fintech de Insights Financeiros
+# Tech Roles - Estrutura para Times de Tecnologia
 
-Este reposit?rio cont?m descri??es de cargos (job descriptions) e o mapa de carreira para times de tecnologia em uma fintech focada em insights financeiros pessoais.
+Este reposit?rio cont?m descri??es de cargos (job descriptions) e o mapa de carreira para times de tecnologia, aplic?vel a qualquer empresa ou ?rea de desenvolvimento de software.
 
 ## Estrutura do Reposit?rio
 
@@ -78,17 +78,17 @@ Sugest?es e melhorias s?o bem-vindas! Para contribuir:
 
 ## Contexto e Objetivo
 
-Este mapa de carreira e as descri??es de cargos foram desenvolvidos para uma fintech focada em insights financeiros pessoais, considerando as seguintes necessidades:
+Este mapa de carreira e as descri??es de cargos foram desenvolvidos considerando as seguintes necessidades:
 
 - **Clareza de resultados**: Defini??es claras de responsabilidades e m?tricas de sucesso
 - **Controle de riscos e custos**: Pap?is com responsabilidades espec?ficas para gest?o de riscos
 - **Experi?ncia do usu?rio**: Foco em entregar valor atrav?s de UX/UI de qualidade
-- **Compliance**: Aten??o especial ?s normas e diretivas financeiras (Open Banking, PIX)
+- **Compliance**: Aten??o especial ?s normas e diretivas aplic?veis ao neg?cio
 - **Qualidade de desenvolvimento**: Aplica??o das melhores pr?ticas de engenharia de software
 - **System Design**: Arquitetura forte para sistemas distribu?dos
 - **DevOps e IaC**: Infraestrutura como c?digo e automa??o
-- **Gest?o de dados**: Tratamento primoroso de dados financeiros
-- **Intelig?ncia Artificial**: Uso intensivo de IA para gera??o de insights
+- **Gest?o de dados**: Tratamento primoroso de dados
+- **Intelig?ncia Artificial**: Uso inteligente de IA para gera??o de insights e automa??o
 
 A estrutura proposta equilibra a necessidade de especializa??o t?cnica com uma vis?o integrada de produto, permitindo tanto crescimento vertical quanto horizontal para os profissionais.
 
