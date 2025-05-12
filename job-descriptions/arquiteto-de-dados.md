@@ -1,118 +1,172 @@
-# Job Description: Arquiteto de Dados
+# 🏗️ Job Description: Arquiteto de Dados
 
-## Vis?o Geral do Cargo
+<!-- summary:start -->
+> Este documento detalha o papel do Arquiteto de Dados, abrangendo visão geral, conhecimentos essenciais e adicionais, frameworks, responsabilidades, atuação por senioridade, competências, métricas, certificações e referências.
+<!-- summary:end -->
 
-O Arquiteto de Dados ser? respons?vel por definir, implementar e evoluir a estrat?gia de dados da organiza??o, garantindo que a arquitetura de dados suporte as necessidades de neg?cio tanto em processamento batch quanto em tempo real. Este profissional ser? fundamental para criar uma base s?lida que possibilite an?lises avan?adas, integra??o com sistemas externos e aplica??o de intelig?ncia artificial para gerar valor aos usu?rios e ? empresa.
+## 🧐 Visão Geral do Cargo
 
-## Conhecimentos Essenciais (Mandat?rios)
+O Arquiteto de Dados será responsável por definir, implementar e evoluir a estratégia de dados da organização, garantindo que a arquitetura de dados suporte as necessidades de negócio tanto em processamento batch quanto em tempo real. Este profissional será fundamental para criar uma base sólida que possibilite análises avançadas, integração com sistemas externos e aplicação de inteligência artificial para gerar valor aos usuários e à empresa.
 
-- **Arquitetura de Dados**: Experi?ncia comprovada (m?nimo 5 anos) em design e implementa??o de arquiteturas de dados complexas
-- **Engenharia de Dados**: Dom?nio de tecnologias de processamento em batch e tempo real (Spark, Kafka, Flink)
-- **Modelagem de Dados**: Profici?ncia em modelagem dimensional, relacional e n?o-relacional
-- **Cloud**: Experi?ncia avan?ada com servi?os de dados em pelo menos uma das principais plataformas (AWS, GCP, Azure)
-- **Data Governance**: Conhecimento s?lido em governan?a de dados, cataloga??o e linhagem
-- **Seguran?a de Dados**: Compreens?o profunda de princ?pios de seguran?a para dados sens?veis
-- **LGPD/Regulamenta??es**: Conhecimento pr?tico da LGPD e normas aplic?veis a dados pessoais
-- **SQL/NoSQL**: Dom?nio avan?ado de bancos de dados SQL e NoSQL
-- **ETL/ELT**: Experi?ncia com pipelines de dados modernos e ferramentas de orquestra??o
+## 📚 Conhecimentos Essenciais (Mandatórios)
 
-## Conhecimentos Adicionais (Desej?veis)
+- **Arquitetura de Dados**: Experiência comprovada (mínimo 5 anos) em design e implementação de arquiteturas de dados complexas
+- **Engenharia de Dados**: Domínio de tecnologias de processamento em batch e tempo real (Spark, Kafka, Flink)
+- **Modelagem de Dados**: Proficiência em modelagem dimensional, relacional e não-relacional
+- **Cloud**: Experiência avançada com serviços de dados em pelo menos uma das principais plataformas (AWS, GCP, Azure)
+- **Data Governance**: Conhecimento sólido em governança de dados, catalogação e linhagem
+- **Segurança de Dados**: Compreensão profunda de princípios de segurança para dados sensíveis
+- **LGPD/Regulamentações**: Conhecimento prático da LGPD e normas aplicáveis a dados pessoais
+- **SQL/NoSQL**: Domínio avançado de bancos de dados SQL e NoSQL
+- **ETL/ELT**: Experiência com pipelines de dados modernos e ferramentas de orquestração
 
-- **Dom?nio de Neg?cio**: Entendimento de conceitos e m?tricas aplic?veis ao dom?nio da empresa
-- **APIs e Integra??es**: Experi?ncia pr?via com implementa??es de APIs e sistemas de integra??o
-- **Qualidade de Dados**: Experi?ncia com ferramentas e processos de qualidade de dados
-- **MLOps**: Conhecimento em prepara??o de dados para modelos de machine learning
-- **Data Mesh**: Familiaridade com conceitos e implementa??es de Data Mesh
-- **Lakehouse**: Experi?ncia com arquiteturas modernas como Lakehouse
-- **Streaming Analytics**: Conhecimento em an?lise de streams de dados em tempo real
-- **Terraform/IaC**: Experi?ncia com infraestrutura como c?digo para recursos de dados
-- **Containers/Kubernetes**: Conhecimento em containeriza??o de servi?os de dados
+## ➕ Conhecimentos Adicionais (Desejáveis)
 
-## Frameworks e Guidances de Mercado
+- **Domínio de Negócio**: Entendimento de conceitos e métricas aplicáveis ao domínio da empresa
+- **APIs e Integrações**: Experiência prévia com implementações de APIs e sistemas de integração
+- **Qualidade de Dados**: Experiência com ferramentas e processos de qualidade de dados
+- **MLOps**: Conhecimento em preparação de dados para modelos de machine learning
+- **Data Mesh**: Familiaridade com conceitos e implementações de Data Mesh
+- **Lakehouse**: Experiência com arquiteturas modernas como Lakehouse
+- **Streaming Analytics**: Conhecimento em análise de streams de dados em tempo real
+- **Terraform/IaC**: Experiência com infraestrutura como código para recursos de dados
+- **Containers/Kubernetes**: Conhecimento em containerização de serviços de dados
 
-- **DAMA-DMBOK**: Framework de gest?o de dados para desenho de arquitetura
-- **DataOps**: Pr?ticas de colabora??o e automa??o para dados
+## 🏛️ Frameworks e Guidances de Mercado
+
+- **DAMA-DMBOK**: Framework de gestão de dados para desenho de arquitetura
+- **DataOps**: Práticas de colaboração e automação para dados
 - **Modern Data Stack**: Familiaridade com o stack moderno de tecnologias de dados
-- **Data Mesh Principles**: Princ?pios de dom?nios descentralizados e self-service
-- **BCBS 239**: Princ?pios para governan?a e gest?o de dados
-- **Zero Trust**: Modelo de seguran?a para prote??o de dados sens?veis
-- **Data Fabric**: Abordagem unificada para gest?o e acesso a dados
+- **Data Mesh Principles**: Princípios de domínios descentralizados e self-service
+- **BCBS 239**: Princípios para governança e gestão de dados
+- **Zero Trust**: Modelo de segurança para proteção de dados sensíveis
+- **Data Fabric**: Abordagem unificada para gestão e acesso a dados
 
-## Principais Responsabilidades
+## 🏆 Principais Responsabilidades
 
-- Definir e implementar a arquitetura de dados completa (ingest?o, armazenamento, processamento, consumo)
-- Desenhar pipelines de dados escal?veis para processamento batch e real-time
-- Estabelecer padr?es, melhores pr?ticas e guias para gest?o de dados na organiza??o
-- Implementar estrat?gias de governan?a de dados alinhadas ?s regulamenta??es (LGPD e outras)
+- Definir e implementar a arquitetura de dados completa (ingestão, armazenamento, processamento, consumo)
+- Desenhar pipelines de dados escaláveis para processamento batch e real-time
+- Estabelecer padrões, melhores práticas e guias para gestão de dados na organização
+- Implementar estratégias de governança de dados alinhadas às regulamentações (LGPD e outras)
 - Colaborar com equipes de IA/ML para garantir que a arquitetura de dados suporte modelos de insights
-- Definir estrat?gias de qualidade, seguran?a e privacidade de dados
-- Avaliar e selecionar tecnologias de dados alinhadas ?s necessidades do neg?cio
+- Definir estratégias de qualidade, segurança e privacidade de dados
+- Avaliar e selecionar tecnologias de dados alinhadas às necessidades do negócio
 - Otimizar custos e performance da infraestrutura de dados
-- Liderar iniciativas de modelagem de dados para aplica??es anal?ticas e operacionais
+- Liderar iniciativas de modelagem de dados para aplicações analíticas e operacionais
 
-## Perguntas do Dia-a-Dia
+## 🪜 Atuação por Nível de Senioridade
 
-- Como podemos reduzir lat?ncia no processamento dos dados em tempo real?
-- Esta arquitetura ? escal?vel para suportar 10x o volume atual de usu?rios?
-- Como garantimos compliance com LGPD e outras regulamenta??es em nossos pipelines de dados?
-- Qual a melhor estrat?gia para integrar novas fontes de dados de forma eficiente?
+| Nível         | Atuação no Cargo de Arquiteto de Dados                                                                                       |
+|--------------|------------------------------------------------------------------------------------------------------------------------------|
+| Júnior       | Apoia tarefas de documentação, participa de projetos sob supervisão, aprende sobre arquitetura de dados e ferramentas básicas |
+| Pleno        | Executa projetos de arquitetura de dados com autonomia moderada, contribui em decisões técnicas, documenta e implementa       |
+| Sênior       | Lidera projetos complexos, define padrões, toma decisões arquiteturais críticas, atua como referência técnica e mentor        |
+| Especialista | Atua em desafios de alta complexidade, define estratégias de arquitetura, influencia padrões organizacionais, inovação         |
+
+## ❓ Perguntas do Dia-a-Dia
+
+- Como podemos reduzir latência no processamento dos dados em tempo real?
+- Esta arquitetura é escalável para suportar 10x o volume atual de usuários?
+- Como garantimos compliance com LGPD e outras regulamentações em nossos pipelines de dados?
+- Qual a melhor estratégia para integrar novas fontes de dados de forma eficiente?
 - Como podemos otimizar custos de armazenamento mantendo performance adequada?
 - Este modelo de dados suporta os insights personalizados que queremos entregar?
 - Como garantimos a qualidade e confiabilidade dos dados processados?
-- Nossa arquitetura permite que equipes de ci?ncia de dados trabalhem de forma eficiente?
-- Como rastreamos a linhagem de dados para auditorias regulat?rias?
-- Qual a estrat?gia para lidar com dados hist?ricos vs. dados em tempo real?
+- Nossa arquitetura permite que equipes de ciência de dados trabalhem de forma eficiente?
+- Como rastreamos a linhagem de dados para auditorias regulatórias?
+- Qual a estratégia para lidar com dados históricos vs. dados em tempo real?
 
-## Atua??o Estrat?gica
+## 🎯 Atuação Estratégica
 
-- **Vis?o de Longo Prazo**: Desenvolver roadmap de evolu??o da arquitetura de dados para 1-3 anos
-- **Alinhamento com Neg?cio**: Garantir que a estrat?gia de dados suporte os objetivos de neg?cio e USPs do produto
-- **Inova??o**: Avaliar novas tecnologias e abordagens que possam gerar vantagem competitiva
-- **Gest?o de Risco**: Identificar e mitigar riscos relacionados a dados em n?vel estrat?gico
-- **Parcerias Tecnol?gicas**: Avaliar e recomendar parcerias com fornecedores estrat?gicos de tecnologia de dados
+- **Visão de Longo Prazo**: Desenvolver roadmap de evolução da arquitetura de dados para 1-3 anos
+- **Alinhamento com Negócio**: Garantir que a estratégia de dados suporte os objetivos de negócio e USPs do produto
+- **Inovação**: Avaliar novas tecnologias e abordagens que possam gerar vantagem competitiva
+- **Gestão de Risco**: Identificar e mitigar riscos relacionados a dados em nível estratégico
+- **Parcerias Tecnológicas**: Avaliar e recomendar parcerias com fornecedores estratégicos de tecnologia de dados
 
-## Atua??o T?tica
+## 🛠️ Atuação Tática
 
-- **Defini??o de Arquitetura**: Criar e documentar padr?es arquiteturais para implementa??o pelas equipes
-- **Prioriza??o**: Balancear necessidades de curto prazo com prepara??o para crescimento futuro
-- **Mentoria**: Orientar equipes t?cnicas na implementa??o da vis?o arquitetural de dados
-- **Integra??es**: Definir abordagens para integra??o com sistemas externos
-- **Governan?a**: Implementar processos e mecanismos de governan?a de dados
-- **Colabora??o Cross-funcional**: Trabalhar com engenharia de software, infraestrutura e ci?ncia de dados
+- **Definição de Arquitetura**: Criar e documentar padrões arquiteturais para implementação pelas equipes
+- **Priorização**: Balancear necessidades de curto prazo com preparação para crescimento futuro
+- **Mentoria**: Orientar equipes técnicas na implementação da visão arquitetural de dados
+- **Integrações**: Definir abordagens para integração com sistemas externos
+- **Governança**: Implementar processos e mecanismos de governança de dados
+- **Colaboração Cross-funcional**: Trabalhar com engenharia de software, infraestrutura e ciência de dados
 
-## Atua??o Operacional
+## ⚙️ Atuação Operacional
 
-- **Design Reviews**: Conduzir revis?es t?cnicas de implementa??es de dados
-- **Troubleshooting**: Auxiliar na resolu??o de problemas complexos de dados em produ??o
+- **Design Reviews**: Conduzir revisões técnicas de implementações de dados
+- **Troubleshooting**: Auxiliar na resolução de problemas complexos de dados em produção
 - **Proof of Concepts**: Desenvolver e avaliar POCs para validar novas abordagens
-- **Documenta??o**: Manter documenta??o atualizada da arquitetura de dados
+- **Documentação**: Manter documentação atualizada da arquitetura de dados
 - **Performance**: Identificar e resolver gargalos em pipelines de dados
-- **Onboarding**: Ajudar novas equipes a compreender a arquitetura de dados da organiza??o
+- **Onboarding**: Ajudar novas equipes a compreender a arquitetura de dados da organização
 
-## Compet?ncias Comportamentais
+## 🤝 Competências Comportamentais
 
-- **Vis?o Sist?mica**: Capacidade de entender sistemas complexos e suas interdepend?ncias
-- **Comunica??o T?cnica**: Habilidade de explicar conceitos t?cnicos para p?blicos diversos
-- **Resolu??o de Problemas**: Abordagem estruturada para problemas complexos de dados
-- **Adaptabilidade**: Flexibilidade para lidar com mudan?as em requisitos e tecnologias
-- **Colabora??o**: Capacidade de trabalhar efetivamente com equipes multidisciplinares
-- **Curiosidade Intelectual**: Interesse cont?nuo por novas tecnologias e abordagens
-- **Pensamento Cr?tico**: Avalia??o rigorosa de alternativas tecnol?gicas
+- **Visão Sistêmica**: Capacidade de entender sistemas complexos e suas interdependências
+- **Comunicação Técnica**: Habilidade de explicar conceitos técnicos para públicos diversos
+- **Resolução de Problemas**: Abordagem estruturada para problemas complexos de dados
+- **Adaptabilidade**: Flexibilidade para lidar com mudanças em requisitos e tecnologias
+- **Colaboração**: Capacidade de trabalhar efetivamente com equipes multidisciplinares
+- **Curiosidade Intelectual**: Interesse contínuo por novas tecnologias e abordagens
+- **Pensamento Crítico**: Avaliação rigorosa de alternativas tecnológicas
 
-## M?tricas de Sucesso
+## 📏 Métricas de Sucesso
 
 - Tempo de processamento de dados (batch e real-time)
 - Custo por terabyte de dados armazenados e processados
-- Disponibilidade e confiabilidade dos servi?os de dados
-- Tempo m?dio para incorpora??o de novas fontes de dados
-- Conformidade com padr?es de governan?a e regulamenta??es
-- Satisfa??o das equipes de an?lise e ci?ncia de dados
-- Capacidade de escala da arquitetura conforme crescimento da base de usu?rios
-- Redu??o de incidentes relacionados a dados em produ??o
+- Disponibilidade e confiabilidade dos serviços de dados
+- Tempo médio para incorporação de novas fontes de dados
+- Conformidade com padrões de governança e regulamentações
+- Satisfação das equipes de análise e ciência de dados
+- Capacidade de escala da arquitetura conforme crescimento da base de usuários
+- Redução de incidentes relacionados a dados em produção
 
-## Requisitos Adicionais
+## 🎓 Requisitos Adicionais
 
-- **Forma??o**: Gradua??o em Ci?ncia da Computa??o, Engenharia ou ?reas relacionadas
-- **Certifica??es**: Certifica??es em plataformas de dados relevantes (AWS/GCP/Azure)
-- **Idiomas**: Ingl?s fluente para acompanhamento de tecnologias emergentes
-- **Experi?ncia Setorial**: Experi?ncia pr?via no setor de atua??o da empresa ? um diferencial
+- **Formação**: Graduação em Ciência da Computação, Engenharia ou áreas relacionadas
+- **Certificações**: Certificações em plataformas de dados relevantes (AWS/GCP/Azure)
+- **Idiomas**: Inglês fluente para acompanhamento de tecnologias emergentes
+- **Experiência Setorial**: Experiência prévia no setor de atuação da empresa é um diferencial
+
+## 🏅 Certificações Importantes para Arquiteto de Dados
+
+A seguir, algumas das certificações mais relevantes e reconhecidas para Arquitetos de Dados, com breve explicação de cada uma:
+
+- **AWS Certified Data Engineer – Associate**
+  - Valida habilidades em modelagem de dados, gerenciamento de ciclo de vida, ingestão, transformação e orquestração de pipelines de dados na AWS. Recomendado para quem já atua com dados em nuvem. [Saiba mais](https://aws.amazon.com/pt/certification/certified-data-engineer-associate/)
+- **AWS Certified Data Analytics – Specialty**
+  - Foco em análise de dados, arquitetura de soluções analíticas, segurança e melhores práticas na AWS.
+- **Google Professional Data Engineer**
+  - Certificação do Google Cloud que valida habilidades em design, construção, operacionalização, segurança e monitoramento de sistemas de processamento de dados.
+- **IBM Certified Solution Architect – Cloud Pak for Data**
+  - Certificação voltada para arquitetos que desenham soluções de dados usando a plataforma IBM Cloud Pak for Data.
+- **Cloudera Data Platform Generalist Certification**
+  - Abrange fundamentos de plataformas de dados, arquitetura, ingestão, processamento e análise de dados em ambientes Cloudera.
+- **DASCA Senior Big Data Engineer**
+  - Certificação internacional que cobre arquitetura, engenharia e governança de dados em ambientes Big Data.
+- **SAS Certified Data Integration Developer**
+  - Foco em integração, transformação e preparação de dados usando ferramentas SAS.
+- **Microsoft Certified: Azure Data Engineer Associate**
+  - Valida competências em design e implementação de soluções de dados na nuvem Azure.
+
+Outras certificações relevantes:
+- **Data Management Professional (CDMP) – DAMA**
+- **Google Cloud Certified – Professional Cloud Architect**
+- **Snowflake SnowPro Advanced: Architect**
+
+## 🌐 Artigos Públicos de Referência
+
+A seguir, alguns artigos e textos públicos de referência importantes para atuação e atualização do Arquiteto de Dados:
+
+- [Arquitetura de Dados: a base para tomar decisões inteligentes (Objective)](https://www.objective.com.br/insights/arquitetura-de-dados/)
+  - Explica fundamentos, melhores práticas, tipos de arquitetura, modelagem, big data, nuvem e tendências para arquitetos de dados.
+- [Tendências de Data Governance para 2024 (Stibo Systems)](https://www.stibosystems.com/pt-br/blog/data-governance-trends)
+  - Aborda governança de dados, compliance, automação, integração com IA, sustentabilidade e desafios atuais para arquitetos de dados.
+- [Data Architecture Trends in 2024 (Dataversity)](https://www.dataversity.net/data-architecture-trends-in-2024/)
+  - Tendências globais, modernização de infraestrutura, governança, qualidade de dados e arquitetura distribuída.
+- [What Is Data Architecture: Best Practices, Strategy, & Diagram (Airbyte)](https://airbyte.com/data-engineering-resources/data-architecture)
+  - Guia prático sobre princípios, frameworks, melhores práticas e exemplos reais de arquitetura de dados.
+- [Data Architecture: A Brief Overview (Medium - Towards Data Engineering)](https://medium.com/towards-data-engineering/data-architecture-a-brief-overview-a93286f3e1f7)
+  - Visão geral, evolução histórica, padrões arquiteturais e princípios fundamentais para arquitetos de dados.

@@ -1,97 +1,154 @@
-# Tech Roles - Estrutura para Times de Tecnologia
+---
+title: "Tech Roles - Estrutura para Times de Tecnologia"
+description: "Repositório de descrições de cargos e mapa de carreira para times de tecnologia, otimizado para IA, RAG e buscas semânticas."
+author: "Equipe de Carreiras Tech"
+created_date: "2024-06-10"
+updated_date: "2024-06-10"
+version: "4.0"
+status: "published"
+confidence: "high"
+tags:
+  - job-descriptions
+  - mapa-de-carreira
+  - tecnologia
+  - cargos
+categories:
+  - Carreira
+  - Tecnologia
+language: "pt-BR"
+related_docs:
+  - id: "senioridade.md"
+    title: "Níveis de Senioridade em Tecnologia"
+    relationship: "references"
+  - id: "job-descriptions/arquiteto-de-solucao.md"
+    title: "Arquiteto de Solução"
+    relationship: "extends"
+  - id: "mapa-de-carreira/mapa-carreira-tech.md"
+    title: "Mapa de Carreira Tech"
+    relationship: "references"
+knowledge_graph:
+  concepts:
+    - id: "CONCEPT001"
+      name: "Job Description"
+    - id: "CONCEPT002"
+      name: "Mapa de Carreira"
+  relationships:
+    - from: "CONCEPT001"
+      to: "CONCEPT002"
+      type: "references"
+---
+ 
+<!-- SEMANTIC_ID: DOC-TECH-ROLES-001 -->
+<!-- KNOWLEDGE_DOMAIN: Carreira/Tecnologia/JobDescriptions -->
+<!-- SEMANTIC_CONFIDENCE: HIGH -->
 
-Este reposit?rio cont?m descri??es de cargos (job descriptions) e o mapa de carreira para times de tecnologia, aplic?vel a qualquer empresa ou ?rea de desenvolvimento de software.
+# 📚 Tech Roles - Estrutura para Times de Tecnologia {#tech-roles}
 
-## Estrutura do Reposit?rio
+<!-- summary:start -->
+> Este repositório reúne descrições padronizadas de cargos (Job Descriptions) e o mapa de carreira para times de tecnologia, com foco em clareza, padronização e otimização para fluxos de IA, RAG e buscas semânticas.
+<!-- summary:end -->
 
-### 1. Descri??es de Cargos
-A pasta `job-descriptions` cont?m arquivos markdown detalhados para cada cargo, com a seguinte estrutura:
-- Vis?o geral do cargo
-- Conhecimentos essenciais (mandat?rios)
-- Conhecimentos adicionais (desej?veis)
+## 🗂️ Estrutura do Repositório {#estrutura-repositorio}
+
+### 1. 📝 Descrições de Cargos {#descricao-cargos}
+A pasta `job-descriptions` contém arquivos markdown detalhados para cada cargo, com a seguinte estrutura:
+- Visão geral do cargo
+- Conhecimentos essenciais (mandatórios)
+- Conhecimentos adicionais (desejáveis)
 - Frameworks e guidances de mercado relevantes
 - Principais responsabilidades
 - Perguntas do dia-a-dia que o profissional precisa responder
-- Atua??o nos n?veis estrat?gico, t?tico e operacional
-- Compet?ncias comportamentais esperadas
-- M?tricas de sucesso para avalia??o de desempenho
+- Atuação nos níveis estratégico, tático e operacional
+- Competências comportamentais esperadas
+- Métricas de sucesso para avaliação de desempenho
 
-### 2. Mapa de Carreira
-A pasta `mapa-de-carreira` cont?m o mapa de carreira completo, detalhando:
-- Pilares organizacionais (Lideran?a Executiva, Lideran?a T?cnica, Especialistas, Time Operacional)
-- Trilhas de carreira por ?rea (Engenharia, Dados, Infraestrutura, Seguran?a, Produto)
-- Crit?rios de progress?o
-- Movimenta??es na carreira (vertical, horizontal, para lideran?a)
-- Modelo de avalia??o e desenvolvimento
-- Implementa??o e evolu??o do mapa
+#### 📑 Índice de Job Descriptions {#indice-jds}
 
-## Cargos Dispon?veis
+Abaixo estão os links diretos para as descrições de cargos disponíveis na pasta [`job-descriptions`](./job-descriptions/):
 
-### Lideran?a Executiva
-- Chief Technology Officer (CTO)
-- Chief Data Officer (CDO)
-- Chief Information Security Officer (CISO)
-- VP de Engenharia
-- VP de Produto
+##### Liderança Executiva
+- [Chief Technology Officer (CTO)](./job-descriptions/chief-technology-officer.md)
+- [Chief Data Officer (CDO)](./job-descriptions/chief-data-officer.md)
+- [Chief Information Security Officer (CISO)](./job-descriptions/chief-information-security-officer.md)
+- [VP de Engenharia](./job-descriptions/vp-engenharia.md)
+- [VP de Produto](./job-descriptions/vp-produto.md)
 
-### Lideran?a T?cnica
-- Head de Engenharia
-- Head de Dados e IA
-- Head de Seguran?a & Compliance
-- Head de Produto & Design
+##### Liderança Técnica
+- [Head de Engenharia](./job-descriptions/head-engenharia.md)
+- [Head de Dados & IA](./job-descriptions/head-dados-ia.md)
+- [Head de Segurança & Compliance](./job-descriptions/head-seguranca-compliance.md)
+- [Head de Produto & Design](./job-descriptions/head-produto-design.md)
+- [Head de PMO](./job-descriptions/head-pmo.md)
 
-### Especialistas e Arquitetos
-- Arquiteto de Solu??o
-- Arquiteto de Dados
-- Arquiteto de Seguran?a
-- Arquiteto de Nuvem
-- Product Owner
+##### Especialistas e Arquitetos
+- [Arquiteto de Solução](./job-descriptions/arquiteto-de-solucao.md)
+- [Arquiteto de Dados](./job-descriptions/arquiteto-de-dados.md)
+- [Arquiteto de Segurança](./job-descriptions/arquiteto-de-seguranca.md)
+- [Arquiteto de Nuvem](./job-descriptions/arquiteto-de-nuvem.md)
+- [Product Owner](./job-descriptions/product-owner.md)
 
-### Time T?cnico Operacional
-- Engenheiros de Software (Jr/Pl/Sr)
-- Engenheiros de Dados (Jr/Pl/Sr)
-- Engenheiros de Cloud (Jr/Pl/Sr)
-- Especialistas em IA/ML (Jr/Pl/Sr)
-- Engenheiros DevOps/SRE (Jr/Pl/Sr)
-- Analistas de Cyber Seguran?a (Jr/Pl/Sr)
-- Designers UX/UI (Jr/Pl/Sr)
-- QA Engineers (Jr/Pl/Sr)
-- Especialistas em Compliance (Jr/Pl/Sr)
+##### Time Técnico Operacional
+- [Engenheiro(a) de Software](./job-descriptions/engenheiro-software.md)
+- [Engenheiro(a) de Dados](./job-descriptions/engenheiro-dados.md)
+- [Engenheiro(a) de Infraestrutura](./job-descriptions/engenheiro-infraestrutura.md)
+- [Engenheiro(a) de Segurança](./job-descriptions/engenheiro-seguranca.md)
+- [Engenheiro(a) de QA (Quality Assurance)](./job-descriptions/engenheiro-qa.md)
 
-## Como Utilizar
+### 2. 🗺️ Mapa de Carreira {#mapa-carreira}
+A pasta `mapa-de-carreira` contém o mapa de carreira completo, detalhando:
+- Pilares organizacionais (Liderança Executiva, Liderança Técnica, Especialistas, Time Operacional)
+- Trilhas de carreira por área (Engenharia, Dados, Infraestrutura, Segurança, Produto)
+- Critérios de progressão
+- Movimentações na carreira (vertical, horizontal, para liderança)
+- Modelo de avaliação e desenvolvimento
+- Implementação e evolução do mapa
 
-Este reposit?rio pode servir como refer?ncia para:
-1. Recrutamento e sele??o de profissionais
-2. Defini??o de expectativas claras para cada cargo
-3. Avalia??es de desempenho
+## 🚀 Como Utilizar {#como-utilizar}
+
+<best-practice>
+Utilize este repositório como referência para:
+</best-practice>
+1. Recrutamento e seleção de profissionais
+2. Definição de expectativas claras para cada cargo
+3. Avaliações de desempenho
 4. Planejamento de carreira dos colaboradores
-5. Estrutura??o de equipes t?cnicas
+5. Estruturação de equipes técnicas
 
-## Contribui??o
+## 🤝 Contribuição {#contribuicao}
 
-Sugest?es e melhorias s?o bem-vindas! Para contribuir:
-1. Fa?a um fork do reposit?rio
+Sugestões e melhorias são bem-vindas! Para contribuir:
+1. Faça um fork do repositório
 2. Crie uma branch para sua feature (`git checkout -b feature/nova-descricao`)
-3. Commit suas mudan?as (`git commit -m 'Adiciona descri??o para cargo X'`)
+3. Commit suas mudanças (`git commit -m 'Adiciona descrição para cargo X'`)
 4. Push para a branch (`git push origin feature/nova-descricao`)
 5. Abra um Pull Request
 
-## Contexto e Objetivo
+## 🎯 Contexto e Objetivo {#contexto-objetivo}
 
-Este mapa de carreira e as descri??es de cargos foram desenvolvidos considerando as seguintes necessidades:
+<!-- summary:start -->
+> Este mapa de carreira e as descrições de cargos foram desenvolvidos para garantir clareza de resultados, controle de riscos, foco em experiência do usuário, compliance, qualidade de desenvolvimento, arquitetura robusta, automação, gestão de dados e uso inteligente de IA.
+<!-- summary:end -->
 
-- **Clareza de resultados**: Defini??es claras de responsabilidades e m?tricas de sucesso
-- **Controle de riscos e custos**: Pap?is com responsabilidades espec?ficas para gest?o de riscos
-- **Experi?ncia do usu?rio**: Foco em entregar valor atrav?s de UX/UI de qualidade
-- **Compliance**: Aten??o especial ?s normas e diretivas aplic?veis ao neg?cio
-- **Qualidade de desenvolvimento**: Aplica??o das melhores pr?ticas de engenharia de software
-- **System Design**: Arquitetura forte para sistemas distribu?dos
-- **DevOps e IaC**: Infraestrutura como c?digo e automa??o
-- **Gest?o de dados**: Tratamento primoroso de dados
-- **Intelig?ncia Artificial**: Uso inteligente de IA para gera??o de insights e automa??o
+- **Clareza de resultados**: Definições claras de responsabilidades e métricas de sucesso
+- **Controle de riscos e custos**: Papéis com responsabilidades específicas para gestão de riscos
+- **Experiência do usuário**: Foco em entregar valor através de UX/UI de qualidade
+- **Compliance**: Atenção especial às normas e diretivas aplicáveis ao negócio
+- **Qualidade de desenvolvimento**: Aplicação das melhores práticas de engenharia de software
+- **System Design**: Arquitetura forte para sistemas distribuídos
+- **DevOps e IaC**: Infraestrutura como código e automação
+- **Gestão de dados**: Tratamento primoroso de dados
+- **Inteligência Artificial**: Uso inteligente de IA para geração de insights e automação
 
-A estrutura proposta equilibra a necessidade de especializa??o t?cnica com uma vis?o integrada de produto, permitindo tanto crescimento vertical quanto horizontal para os profissionais.
+A estrutura proposta equilibra a necessidade de especialização técnica com uma visão integrada de produto, permitindo tanto crescimento vertical quanto horizontal para os profissionais.
 
-## Licen?a
+## 🧑‍💻 Diferenças entre Níveis de Senioridade {#senioridade}
 
-Este material ? compartilhado sob a licen?a MIT. Sinta-se livre para adaptar ?s necessidades espec?ficas da sua organiza??o.
+Para entender as diferenças gerais entre os níveis de senioridade (Júnior, Pleno, Sênior, Especialista) em tecnologia, consulte o arquivo [`senioridade.md`](./senioridade.md). Lá você encontrará uma explicação genérica e aplicável a qualquer área de atuação técnica.
+
+## 📄 Licença {#licenca}
+
+Este material é compartilhado sob a licença MIT. Sinta-se livre para adaptar às necessidades específicas da sua organização.
+
+## Referências {#referencias}
+
+- [MIT License](https://opensource.org/licenses/MIT)
