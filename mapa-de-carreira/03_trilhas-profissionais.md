@@ -1,21 +1,22 @@
+<!--
 ---
 title: "Trilhas Profissionais em Tecnologia"
-description: "Descrição das principais trilhas profissionais do mapa de carreira em tecnologia, suas possibilidades de progressão e transição."
-author: "Equipe de Carreiras Tech"
+description: "Descrição das trilhas profissionais do mapa de carreira em tecnologia."
+author: "Tiago N Pinto Silva"
 created_date: "2024-06-10"
-updated_date: "2024-06-10"
-version: "1.0"
-status: "published"
-confidence: "high"
+version: "1.0.0"
 tags:
-  - mapa-carreira
-  - tech-roles
   - trilhas
+  - mapa-carreira
 categories:
   - Carreira
   - Tecnologia
 language: "pt-BR"
 ---
+-->
+<!--
+⚠️ Bloco acima: metadados para busca semântica e IA. Pode ser ignorado na leitura.
+-->
 
 # 🛤️ Trilhas Profissionais {#trilhas-profissionais}
 

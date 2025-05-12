@@ -1,11 +1,10 @@
+<!--
 ---
 title: "Mapa de Carreira em Tecnologia - Índice Geral"
 description: "Índice geral e navegação para os arquivos do mapa de carreira em tecnologia."
-author: "Equipe de Carreiras Tech"
+author: "Tiago N Pinto Silva"
 created_date: "2024-06-10"
-updated_date: "2024-06-10"
-version: "2.0"
-status: "published"
+version: "1.0.0"
 confidence: "high"
 tags:
   - mapa-carreira
@@ -16,6 +15,10 @@ categories:
   - Tecnologia
 language: "pt-BR"
 ---
+-->
+<!--
+⚠️ Bloco acima: metadados para busca semântica e IA. Pode ser ignorado na leitura.
+-->
 
 # 🗺️ Mapa de Carreira em Tecnologia - Índice Geral {#indice-mapa-carreira}
 

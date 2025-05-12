@@ -1,11 +1,10 @@
+<!--
 ---
 title: "Visão Geral do Mapa de Carreira em Tecnologia"
 description: "Introdução, visão geral, diagrama e estrutura dos pilares do mapa de carreira para times de tecnologia."
-author: "Equipe de Carreiras Tech"
+author: "Tiago N Pinto Silva"
 created_date: "2024-06-10"
-updated_date: "2024-06-10"
-version: "1.0"
-status: "published"
+version: "1.0.0"
 confidence: "high"
 tags:
   - mapa-carreira
@@ -16,6 +15,10 @@ categories:
   - Tecnologia
 language: "pt-BR"
 ---
+-->
+<!--
+⚠️ Bloco acima: metadados para busca semântica e IA. Pode ser ignorado na leitura.
+-->
 
 # 🗺️ Visão Geral do Mapa de Carreira {#visao-geral-mapa-carreira}
 

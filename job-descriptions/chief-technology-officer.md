@@ -1,33 +1,23 @@
+<!--
 ---
 title: "Job Description: Chief Technology Officer (CTO)"
-description: "Descrição detalhada do cargo de CTO, incluindo responsabilidades, conhecimentos, frameworks, senioridade e certificações."
-author: "Equipe de Carreiras Tech"
+description: "Descrição detalhada do papel de Chief Technology Officer (CTO)."
+author: "Tiago N Pinto Silva"
 created_date: "2024-06-10"
-updated_date: "2024-06-10"
-version: "4.0"
-status: "published"
-confidence: "high"
+version: "1.0.0"
 tags:
-  - job-description
+  - chief-technology-officer
   - cto
-  - liderança
+  - job-description
 categories:
   - Carreira
   - Tecnologia
 language: "pt-BR"
-related_docs:
-  - id: "README.md"
-    title: "Tech Roles - Estrutura para Times de Tecnologia"
-    relationship: "references"
-  - id: "senioridade.md"
-    title: "Níveis de Senioridade em Tecnologia"
-    relationship: "references"
-knowledge_graph:
-  concepts:
-    - id: "CONCEPT005"
-      name: "Chief Technology Officer"
-  relationships: []
 ---
+-->
+<!--
+⚠️ Bloco acima: metadados para busca semântica e IA. Pode ser ignorado na leitura.
+-->
 
 <!-- SEMANTIC_ID: JD-CTO-001 -->
 <!-- KNOWLEDGE_DOMAIN: Carreira/Tecnologia/Liderança/CTO -->

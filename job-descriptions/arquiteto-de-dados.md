@@ -1,3 +1,22 @@
+<!--
+---
+title: "Job Description: Arquiteto de Dados"
+description: "Descrição detalhada do papel de Arquiteto de Dados."
+author: "Tiago N Pinto Silva"
+created_date: "2024-06-10"
+version: "1.0.0"
+tags:
+  - arquiteto-de-dados
+  - job-description
+categories:
+  - Carreira
+  - Tecnologia
+language: "pt-BR"
+---
+-->
+<!--
+⚠️ Bloco acima: metadados para busca semântica e IA. Pode ser ignorado na leitura.
+-->
 # 🏗️ Job Description: Arquiteto de Dados
 
 <!-- summary:start -->

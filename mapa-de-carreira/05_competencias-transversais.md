@@ -1,21 +1,22 @@
+<!--
 ---
 title: "Competências Transversais em Tecnologia"
-description: "Competências comportamentais e habilidades transversais essenciais para o desenvolvimento e progressão de carreira em tecnologia."
-author: "Equipe de Carreiras Tech"
+description: "Descrição das competências transversais do mapa de carreira em tecnologia."
+author: "Tiago N Pinto Silva"
 created_date: "2024-06-10"
-updated_date: "2024-06-10"
-version: "1.0"
-status: "published"
-confidence: "high"
+version: "1.0.0"
 tags:
-  - mapa-carreira
-  - tech-roles
   - competencias
+  - mapa-carreira
 categories:
   - Carreira
   - Tecnologia
 language: "pt-BR"
 ---
+-->
+<!--
+⚠️ Bloco acima: metadados para busca semântica e IA. Pode ser ignorado na leitura.
+-->
 
 # 🧩 Competências Transversais {#competencias-transversais}
 

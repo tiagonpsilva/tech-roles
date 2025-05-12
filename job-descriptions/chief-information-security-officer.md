@@ -1,3 +1,23 @@
+<!--
+---
+title: "Job Description: Chief Information Security Officer (CISO)"
+description: "Descrição detalhada do papel de Chief Information Security Officer (CISO)."
+author: "Tiago N Pinto Silva"
+created_date: "2024-06-10"
+version: "1.0.0"
+tags:
+  - chief-information-security-officer
+  - ciso
+  - job-description
+categories:
+  - Carreira
+  - Tecnologia
+language: "pt-BR"
+---
+-->
+<!--
+⚠️ Bloco acima: metadados para busca semântica e IA. Pode ser ignorado na leitura.
+-->
 # 🛡️ Job Description: Chief Information Security Officer (CISO)
 
 <!-- summary:start -->

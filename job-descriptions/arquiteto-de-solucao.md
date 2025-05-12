@@ -1,3 +1,23 @@
+<!--
+---
+title: "Job Description: Arquiteto de Solução"
+description: "Descrição detalhada do papel de Arquiteto de Solução."
+author: "Tiago N Pinto Silva"
+created_date: "2024-06-10"
+version: "1.0.0"
+tags:
+  - arquiteto-de-solucao
+  - job-description
+categories:
+  - Carreira
+  - Tecnologia
+language: "pt-BR"
+---
+-->
+<!--
+⚠️ Bloco acima: metadados para busca semântica e IA. Pode ser ignorado na leitura.
+-->
+
 ---
 title: "Job Description: Arquiteto de Solução"
 description: "Descrição detalhada do cargo de Arquiteto de Solução, incluindo responsabilidades, conhecimentos, frameworks, senioridade e certificações."
@@ -5,7 +25,6 @@ author: "Equipe de Carreiras Tech"
 created_date: "2024-06-10"
 updated_date: "2024-06-10"
 version: "4.0"
-status: "published"
 confidence: "high"
 tags:
   - job-description

@@ -1,3 +1,4 @@
+<!--
 ---
 title: "Referências do Mapa de Carreira em Tecnologia"
 description: "Lista de referências, artigos, frameworks e materiais utilizados na construção do mapa de carreira."
@@ -16,6 +17,10 @@ categories:
   - Tecnologia
 language: "pt-BR"
 ---
+-->
+<!--
+⚠️ Bloco acima: metadados para busca semântica e IA. Pode ser ignorado na leitura.
+-->
 
 # 📚 Referências do Mapa de Carreira {#referencias-mapa-carreira}
 

@@ -1,3 +1,22 @@
+<!--
+---
+title: "Job Description: Engenheiro de Infraestrutura"
+description: "Descrição detalhada do papel de Engenheiro de Infraestrutura."
+author: "Tiago N Pinto Silva"
+created_date: "2024-06-10"
+version: "1.0.0"
+tags:
+  - engenheiro-infraestrutura
+  - job-description
+categories:
+  - Carreira
+  - Tecnologia
+language: "pt-BR"
+---
+-->
+<!--
+⚠️ Bloco acima: metadados para busca semântica e IA. Pode ser ignorado na leitura.
+-->
 # 🏢 Job Description: Engenheiro(a) de Infraestrutura
 
 ## 🧐 Visão Geral do Cargo

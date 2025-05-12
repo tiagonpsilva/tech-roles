@@ -1,3 +1,22 @@
+<!--
+---
+title: "Job Description: Engenheiro de Software"
+description: "Descrição detalhada do papel de Engenheiro de Software."
+author: "Tiago N Pinto Silva"
+created_date: "2024-06-10"
+version: "1.0.0"
+tags:
+  - engenheiro-software
+  - job-description
+categories:
+  - Carreira
+  - Tecnologia
+language: "pt-BR"
+---
+-->
+<!--
+⚠️ Bloco acima: metadados para busca semântica e IA. Pode ser ignorado na leitura.
+-->
 # 💻 Job Description: Engenheiro(a) de Software
 
 <!-- summary:start -->

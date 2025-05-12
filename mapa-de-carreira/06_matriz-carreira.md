@@ -1,21 +1,22 @@
+<!--
 ---
 title: "Matriz de Carreira em Tecnologia"
-description: "Matriz visual relacionando trilhas, níveis de senioridade e exemplos de cargos em tecnologia."
-author: "Equipe de Carreiras Tech"
+description: "Descrição da matriz de carreira do mapa de carreira em tecnologia."
+author: "Tiago N Pinto Silva"
 created_date: "2024-06-10"
-updated_date: "2024-06-10"
-version: "1.0"
-status: "published"
-confidence: "high"
+version: "1.0.0"
 tags:
-  - mapa-carreira
-  - tech-roles
   - matriz
+  - mapa-carreira
 categories:
   - Carreira
   - Tecnologia
 language: "pt-BR"
 ---
+-->
+<!--
+⚠️ Bloco acima: metadados para busca semântica e IA. Pode ser ignorado na leitura.
+-->
 
 # 🗂️ Matriz de Carreira {#matriz-carreira}
 

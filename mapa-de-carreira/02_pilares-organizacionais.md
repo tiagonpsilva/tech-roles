@@ -1,21 +1,22 @@
+<!--
 ---
-title: "Pilares Organizacionais do Mapa de Carreira em Tecnologia"
-description: "Detalhamento dos pilares organizacionais: Liderança Executiva, Liderança Técnica, Especialistas/Arquitetos e Time Técnico Operacional."
-author: "Equipe de Carreiras Tech"
+title: "Pilares Organizacionais do Mapa de Carreira"
+description: "Descrição dos pilares organizacionais do mapa de carreira em tecnologia."
+author: "Tiago N Pinto Silva"
 created_date: "2024-06-10"
-updated_date: "2024-06-10"
-version: "1.0"
-status: "published"
-confidence: "high"
+version: "1.0.0"
 tags:
-  - mapa-carreira
-  - tech-roles
   - pilares
+  - mapa-carreira
 categories:
   - Carreira
   - Tecnologia
 language: "pt-BR"
 ---
+-->
+<!--
+⚠️ Bloco acima: metadados para busca semântica e IA. Pode ser ignorado na leitura.
+-->
 
 # 🏛️ Pilares Organizacionais {#pilares-organizacionais}
 

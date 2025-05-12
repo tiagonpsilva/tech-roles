@@ -1,21 +1,22 @@
+<!--
 ---
 title: "Níveis de Senioridade em Tecnologia"
-description: "Explicação dos níveis de senioridade: Júnior, Pleno, Sênior e Especialista, com tabela comparativa e referência cruzada."
-author: "Equipe de Carreiras Tech"
+description: "Descrição dos níveis de senioridade do mapa de carreira em tecnologia."
+author: "Tiago N Pinto Silva"
 created_date: "2024-06-10"
-updated_date: "2024-06-10"
-version: "1.0"
-status: "published"
-confidence: "high"
+version: "1.0.0"
 tags:
-  - mapa-carreira
-  - tech-roles
   - senioridade
+  - mapa-carreira
 categories:
   - Carreira
   - Tecnologia
 language: "pt-BR"
 ---
+-->
+<!--
+⚠️ Bloco acima: metadados para busca semântica e IA. Pode ser ignorado na leitura.
+-->
 
 # 🧑‍💻 Níveis de Senioridade {#niveis-senioridade}
 
