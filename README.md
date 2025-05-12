@@ -44,7 +44,7 @@ knowledge_graph:
 <!-- KNOWLEDGE_DOMAIN: Carreira/Tecnologia/JobDescriptions -->
 <!-- SEMANTIC_CONFIDENCE: HIGH -->
 
-# 📚 Tech Roles - Estrutura para Times de Tecnologia {#tech-roles}
+# 📚 Tech Roles - Estrutura para Times de Tecnologia
 
 <!-- summary:start -->
 > Este repositório reúne descrições padronizadas de cargos (Job Descriptions) e o mapa de carreira para times de tecnologia, com foco em clareza, padronização e otimização para fluxos de IA, RAG e buscas semânticas.
