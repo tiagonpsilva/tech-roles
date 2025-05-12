@@ -1,11 +1,10 @@
----
+<!--
 title: "Tech Roles - Estrutura para Times de Tecnologia"
 description: "Repositório de descrições de cargos e mapa de carreira para times de tecnologia, otimizado para IA, RAG e buscas semânticas."
-author: "Equipe de Carreiras Tech"
+author: "Tiago N Pinto Silva"
 created_date: "2024-06-10"
 updated_date: "2024-06-10"
-version: "4.0"
-status: "published"
+version: "1.0.0"
 confidence: "high"
 tags:
   - job-descriptions
@@ -36,7 +35,10 @@ knowledge_graph:
     - from: "CONCEPT001"
       to: "CONCEPT002"
       type: "references"
----
+-->
+<!--
+⚠️ Bloco acima: metadados para busca semântica e IA. Pode ser ignorado na leitura.
+-->
  
 <!-- SEMANTIC_ID: DOC-TECH-ROLES-001 -->
 <!-- KNOWLEDGE_DOMAIN: Carreira/Tecnologia/JobDescriptions -->
